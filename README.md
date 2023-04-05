@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNYEONG-DEV&layout=Demo&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsdud2586)](https://solved.ac/dbsdud2586)
